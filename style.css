@@ -1,0 +1,63 @@
+body
+{
+
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-color: chartreuse ; 
+
+}
+
+.header_div
+{
+
+background: rgb(23, 234, 55);
+color: rgb(17, 46, 237);
+font-size: 50px;
+}
+
+.header_div p
+{
+
+font-family: 'Times New Roman', Times, serif;
+color: rgb(234, 219, 52);
+letter-spacing: 2px;
+font-size:12px ;
+font-weight: bold;
+
+
+
+}
+
+.main_div button
+{
+
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+
+
+}
+
+.copy_right_footer
+{
+position: fixed;
+color: rgb(229, 205, 26);
+bottom: 0;
+width: 100%;
+font-size: 18px;
+background-color: rgb(28, 219, 98);
+line-height: 3;
+text-align: center;
+
+
+
+
+}
+
+.main_div h3, h4
+{
+
+color: rgb(228, 213, 40);
+
+}
